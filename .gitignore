@@ -4,9 +4,7 @@ sdk-cpp-workspace/
 out/
 build/
 
-# Ignore compiled documentation folders
-doc/html/
-doc/latex/
+docs/latex/
 
 # Intellij
 .idea/
